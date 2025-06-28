@@ -67,6 +67,6 @@ I'm a driven and relentless learner, diving deep into algorithmic trading, compe
 - Obsessed with optimizing workflows (Emacs, Linux, keyboard setups)
 - Experimenting with AI-based monetization ideas
 
-> *"Anything that doesn't kill you makes you better"* — [find author]
+> *"Anything that doesn't kill you makes you better"* — Friedrich Nietzsche
 
 ---
