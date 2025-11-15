@@ -11,7 +11,7 @@ I'm a driven and relentless learner, diving deep into algorithmic trading, compe
 ## 🚀 Skills & Tools
 
 - **Languages:** C++, JavaScript, Python
-- **Frontend:** MERN stack (not good in frontend)
+- **Frontend:** React, HTML, CSS
 - **Backend:** C++ (multi-threaded systems), Node.js
 - **Data Science/ML:** Python (pandas, sklearn, matplotlib), Deep Learning (Keras/PyTorch basics)
 - **Others:** MongoDB, Express.js, Git, Emacs, Linux (Kali, GNOME)
